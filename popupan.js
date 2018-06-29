@@ -2,7 +2,7 @@
 	var url_popup = 'http://q7.hungthinhexpress.net/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'http://q7.hungthinhexpress.net/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
