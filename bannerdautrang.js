@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://q7.hungthinhexpress.net/' target='_blank'><img src='http://sangiaodichhungthinhcorp.com/wp-content/uploads/2018/06/pop_up_66.jpg' width='500px'/><br/> </a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://q7.hungthinhexpress.net/' target='_blank'><img src='http://sangiaodichhungthinhcorp.com/wp-content/uploads/2018/06/pop_up_66.jpg' width='500px'/><br/> Can Ho Q7 SaiGon</a>. Ban Can Ho Q7 Saigon. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
